@@ -99,9 +99,9 @@ Confusion Matrix Insights: -
 
 Key Observations: -	
 
-•	SVM performed the best overall due to high-dimensional text features.
+•	SVM performed the best overall (with 91.38% accuracy) due to high-dimensional text features.
 	
 •	Random Oversampling significantly improved Recall for minority (neutral/negative) classes.
 	
-•	Logistic Regression also provided stable and interpretable results.
+•	Logistic Regression also can provide stable and interpretable results.
 ________________________________________
